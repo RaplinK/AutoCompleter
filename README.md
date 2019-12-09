@@ -18,4 +18,4 @@
 **Начальная страница**
 Когда гость заходит на страницу у него есть возможность увидеть все имена и отсортировать их по желанию. Также у гостя есть возможность зарегестрироваться или залогиниться.
 
-!(https://github.com/RaplinK/AutoCompleter/blob/master/Images/1.PNG)
+![](https://github.com/RaplinK/AutoCompleter/blob/master/Images/1.PNG)
