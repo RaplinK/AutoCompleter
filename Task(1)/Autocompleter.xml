@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<peoples>
+  <people id="1">
+    <name>Артур</name>
+    <gender>Мужской</gender>
+    <nativeName>Артур</nativeName>
+    <fln>Arthur</fln>
+  </people>
+
+  <people id="2">
+    <name>Кевин</name>
+    <gender>Мужской</gender>
+    <nativeName>Кевин</nativeName>
+    <fln>Kevin</fln>
+  </people>
+
+  <people id="3">
+    <name>Олег</name>
+    <gender>Мужской</gender>
+    <nativeName>Олег</nativeName>
+    <fln>Oleg</fln>
+  </people>
+
+  <people id="4">
+    <name>Лена</name>
+    <gender>Женский</gender>
+    <nativeName>Лена</nativeName>
+    <fln>Lena</fln>
+  </people>
+
+  <people id="5">
+    <name>Наталья</name>
+    <gender>Женский</gender>
+    <nativeName>Наталья</nativeName>
+    <fln>Natalja</fln>
+  </people>
+</peoples>
+ 
