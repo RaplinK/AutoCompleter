@@ -21,6 +21,7 @@
 ![](https://github.com/RaplinK/AutoCompleter/blob/master/Images/1.PNG)
 ![](https://github.com/RaplinK/AutoCompleter/blob/master/Images/2.PNG)
 ![](https://github.com/RaplinK/AutoCompleter/blob/master/Images/4.PNG)
+
 **Пользователь**
 
 Заходя на аккаунт пользователя появляется возможность добавлять имена.
@@ -28,6 +29,7 @@
 ![](https://github.com/RaplinK/AutoCompleter/blob/master/Images/6.PNG)
 
 **Администратор**
+
 При заходе на аккаунт администратора появляеться новая страница "Admin" на которой у администратора появляеться возможно изменять и удалять имена по мимо их добавления.
 ![](https://github.com/RaplinK/AutoCompleter/blob/master/Images/10.PNG)
 ![](https://github.com/RaplinK/AutoCompleter/blob/master/Images/7.PNG)
