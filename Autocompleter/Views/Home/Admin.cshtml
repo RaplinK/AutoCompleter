@@ -1,0 +1,36 @@
+﻿@model IEnumerable<Autocompleter.Models.People>
+
+@{
+    ViewBag.Title = "Admin";
+}
+
+<h2>Admin</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <th scope="col">Name</th>
+    <th scope="col">Name in own language</th>
+    <th scope="col">Name in english language</th>
+
+    @foreach (var x in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => x.Namee)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => x.TrueName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => x.FLName)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = x.Id }) |
+                @Html.ActionLink("Delete", "Delete", new { id = x.Id })
+            </td>
+        </tr>
+    }
+
+</table>
