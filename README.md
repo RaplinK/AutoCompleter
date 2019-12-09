@@ -24,7 +24,7 @@
 ![](https://github.com/RaplinK/AutoCompleter/blob/master/Images/4.PNG)
 ![](https://github.com/RaplinK/AutoCompleter/blob/master/Images/5.PNG)
 ![](https://github.com/RaplinK/AutoCompleter/blob/master/Images/6.PNG)
-![](https://github.com/RaplinK/AutoCompleter/blob/master/Images/9.PNG)
+
 ![](https://github.com/RaplinK/AutoCompleter/blob/master/Images/10.PNG)
 ![](https://github.com/RaplinK/AutoCompleter/blob/master/Images/7.PNG)
 ![](https://github.com/RaplinK/AutoCompleter/blob/master/Images/8.PNG)
