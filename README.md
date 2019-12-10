@@ -15,16 +15,37 @@
 
 **Придумать 3 свои функции:**
   - Отображение первого и последнего имени
-  - Отображать в таблици только мужчин или только женщин
-  - Поиск имени по первой букве или по имени
+  - Отображать в таблице только мужчин или только женщин
+  - Поиск имени по первой букве имени или по имени
   
 ## XML файл
-
+![](https://github.com/RaplinK/AutoCompleter/blob/master/Images/3.PNG)
 ## Документация PHP кода
 
 **Для начала необходимо добавить строчку для запроса XML файла**
-
+![](https://github.com/RaplinK/AutoCompleter/blob/master/Images/18.PNG)
 **Эта часть кода отвечает за отображение таблицы и xml данных при помощи php**
+![](https://github.com/RaplinK/AutoCompleter/blob/master/Images/11.PNG)
+#### Отображение первого и последнего имени
+
+**Функции для отображения первого и последнего имени**
+![](https://github.com/RaplinK/AutoCompleter/blob/master/Images/12.PNG)
+#### Отображение в таблице только мужчин или только женщин
+
+**Вывод самой таблици**
+![](https://github.com/RaplinK/AutoCompleter/blob/master/Images/14.PNG)
+**Ссылки которые передают значения для вывода**
+![](https://github.com/RaplinK/AutoCompleter/blob/master/Images/13.PNG)
+**Php код который принимает и обрабатывает эти значения**
+![](https://github.com/RaplinK/AutoCompleter/blob/master/Images/17.PNG)
+#### Поиск имени по первой букве имени или по имени
+
+**Таблица которая отображает имена отсортированные по контретной букве имени или поп имени**
+![](https://github.com/RaplinK/AutoCompleter/blob/master/Images/16.PNG)
+**Форма в которую вписывает данные пользователь для находении имени**
+![](https://github.com/RaplinK/AutoCompleter/blob/master/Images/15.PNG)
+**Функция которая ищет конкретное имя которое ввел пользователь**
+![](https://github.com/RaplinK/AutoCompleter/blob/master/Images/19.PNG)
 
 # Документация по второму заданию(ASP.NET)
 ## Задание
