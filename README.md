@@ -34,10 +34,15 @@
 ## Отображение в таблице только мужчин или только женщин
 
 **Вывод самой таблици**
+
 ![](https://github.com/RaplinK/AutoCompleter/blob/master/Images/14.PNG)
+
 **Ссылки которые передают значения для вывода**
+
 ![](https://github.com/RaplinK/AutoCompleter/blob/master/Images/13.PNG)
+
 **Php код который принимает и обрабатывает эти значения**
+
 ![](https://github.com/RaplinK/AutoCompleter/blob/master/Images/17.PNG)
 ## Поиск имени по первой букве имени или по имени
 
