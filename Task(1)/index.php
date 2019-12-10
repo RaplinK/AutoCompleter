@@ -59,9 +59,15 @@ function searchPeopleByName($query) {
 	</table>
 
 	<br/>
+	
+	<table>
+	<tr>
+		<td><a href="index.php?x=мужчины"><h3>Мужчины</h3></a></td>
+		<td></td>
+		<td><a href="index.php?x=женщины"><h3>Женщины</h3></a></td>
+	</tr>
+	</table>
 	<table border="1">
-	<a href="index.php?x=мужчины"><h3>Мужчины</h3></a>
-	<a href="index.php?x=женщины"><h3>Женщины</h3></a>
 	<tr>
 		<th>Имя</th>
 		<th>Пол</th>
@@ -101,10 +107,10 @@ function searchPeopleByName($query) {
 		$result = searchPeopleByName($_POST["search"]);
 		foreach($result as $peoples){
 		echo "<tr>";
-		echo "<th>".($peoples -> name)."</th>";
-		echo "<th>".($peoples -> gender)."</th>";
-		echo "<th>".($peoples -> nativeName)."</th>";
-		echo "<th>".($peoples -> fln)."</th>";
+		echo "<td>".($peoples -> name)."</td>";
+		echo "<td>".($peoples -> gender)."</td>";
+		echo "<td>".($peoples -> nativeName)."</td>";
+		echo "<td>".($peoples -> fln)."</td>";
 		echo "</tr>";
 		}
 	}
