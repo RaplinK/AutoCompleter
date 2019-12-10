@@ -29,6 +29,16 @@ function searchPeopleByName($query) {
 <body>
 
 	<h1>Автозаполнитель</h1>
+	<b>Первое имя:</b>
+	        <?php
+        echo $people -> people[0] -> name;
+        ?>
+		<br/>
+		<b>Послднее имя:</b>
+	            <?php
+            $var_people=$people->xpath('/peoples/people[last()]/name')[0];
+            echo $var_people;
+            ?>
 	<table border="1">		
 		<tr>
 			<th>Имя</th>
