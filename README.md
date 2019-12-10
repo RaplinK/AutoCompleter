@@ -25,6 +25,7 @@
 **Для начала необходимо добавить строчку для запроса XML файла**
 ![](https://github.com/RaplinK/AutoCompleter/blob/master/Images/18.PNG)
 **Эта часть кода отвечает за отображение таблицы и xml данных при помощи php**
+
 ![](https://github.com/RaplinK/AutoCompleter/blob/master/Images/11.PNG)
 #### Отображение первого и последнего имени
 
