@@ -48,11 +48,14 @@
 
 **Таблица которая отображает имена отсортированные по контретной букве имени или поп имени**
 ![](https://github.com/RaplinK/AutoCompleter/blob/master/Images/16.PNG)
-**Форма в которую вписывает данные пользователь для находении имени**
-![](https://github.com/RaplinK/AutoCompleter/blob/master/Images/15.PNG)
-**Функция которая ищет конкретное имя которое ввел пользователь**
-![](https://github.com/RaplinK/AutoCompleter/blob/master/Images/19.PNG)
 
+**Форма в которую вписывает данные пользователь для находении имени**
+
+![](https://github.com/RaplinK/AutoCompleter/blob/master/Images/15.PNG)
+
+**Функция которая ищет конкретное имя которое ввел пользователь**
+
+![](https://github.com/RaplinK/AutoCompleter/blob/master/Images/19.PNG)
 # Документация по второму заданию(ASP.NET)
 ## Задание
 Создать веб-сайт на основе ASP.NET. Сайт создан для просмотра разнообразных имен и их поиску с помощью сортировки. На сайте есть используется 3 роли.
